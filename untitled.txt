@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boas-vindas ao Natal da Gih Souza Confeitaria</title>
+    <style>
+        body {
+            background-color: #f8f0e3; /* Cor de fundo suave */
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #b22222; /* Cor vermelha natalina */
+        }
+        p {
+            color: #555;
+            margin-bottom: 20px;
+        }
+        .button {
+            background-color: #b22222;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #8b0000;
+        }
+    </style>
+</head>
+<body>
+    <h1>Boas-vindas ao Natal da Gih Souza Confeitaria!</h1>
+    <p>Prepare-se para descobrir as delícias que farão o seu Natal ainda mais especial.</p>
+    <a href="https://gih-souza-confeitaria-2.goomer.app" class="button">Explorar Cardápio</a>
+</body>
+</html>
